@@ -11,6 +11,7 @@
 |
 */
 
-Route::get('/', function () {
-    return view('index.show');
+Route::namespace('User')->name('user.')->group(function () {
+    Route::get('/', 'HomeController@index')
+        ->name('home');
 });
