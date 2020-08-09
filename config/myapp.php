@@ -13,7 +13,7 @@ return [
     'domain' => env('APP_DOMAIN'),
 
     // サイト名
-    'site_name' => 'もふずのお部屋',
+    'site_name' => 'Mohu`s ROOM',
 
     // ファイルストレージディスク
     'storage_disk' => env('STORAGE_DISK', 'local'),
