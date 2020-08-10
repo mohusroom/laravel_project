@@ -1,0 +1,10 @@
+/***********************************************
+* クラスを付与するだけで機能として使用できるものを記述する
+***********************************************/
+
+.mod-fixedBackground {
+    min-height: 100vh;
+    background-attachment: fixed;
+    background-size: cover;
+    background-position: center;
+}

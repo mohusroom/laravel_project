@@ -1,2 +1,15 @@
 @import "resources/sass/user/common/_share/_variables.scss";
 @import "~bulma/bulma.sass";
+@import "resources/sass/user/common/_share/_utilities.scss";
+@import "resources/sass/user/common/_share/_modules.scss";
+
+main {
+    margin-top: 4.25rem;
+    background-image: url("/img/user/common/background/main.png");
+}
+
+.l-header {
+    .f-headerNav {
+        // background-image: url("/img/user/common/background/main.png");
+    }
+}
