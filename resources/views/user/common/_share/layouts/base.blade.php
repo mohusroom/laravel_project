@@ -11,7 +11,7 @@
     @include('user.common._share.layouts.header')
 
     <!-- -------------------- main -------------------- -->
-    <main class="mod-fixedBackground" role="main">
+    <main class="u-fixedBackground" role="main">
         @yield('main')
     </main>
 

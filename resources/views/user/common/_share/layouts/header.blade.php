@@ -14,7 +14,7 @@
         </div>
 
         <div id="navbarBasicExample" class="navbar-menu">
-            <div class="navbar-start">
+            <!-- <div class="navbar-start">
                 <a class="navbar-item">
                     Home
                 </a>
@@ -44,15 +44,12 @@
                         </a>
                     </div>
                 </div>
-            </div>
+            </div> -->
 
             <div class="navbar-end">
                 <div class="navbar-item">
                     <div class="buttons">
-                        <a class="button is-primary">
-                            <strong>Sign up</strong>
-                        </a>
-                        <a class="button is-light">
+                        <a class="button is-primary" href="">
                             Log in
                         </a>
                     </div>

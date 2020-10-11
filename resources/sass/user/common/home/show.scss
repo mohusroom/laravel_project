@@ -1,0 +1,27 @@
+.f-topContent {
+    background: url("/img/user/common/background/main.png") center no-repeat;
+    background-size: cover;
+    .topContent-title,
+    .topContent-subtitle {
+        color: #fff !important;
+    }
+}
+
+.f-news {
+    .news-title {
+        text-align: center;
+    }
+}
+
+.f-content {
+    .content-title {
+        text-align: center;
+    }
+    .content-item {
+        font-size: 20px;
+        text-align: center;
+        span {
+            vertical-align: middle;
+        }
+    }
+}
